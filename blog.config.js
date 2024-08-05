@@ -26,7 +26,7 @@ const BLOG = {
 
   AUTHOR: process.env.NEXT_PUBLIC_AUTHOR || 'Wyy&Xzj', // 您的昵称 例如 tangly1024
   BIO: process.env.NEXT_PUBLIC_BIO || '王又幼和谢中骏的网站记录', // 作者简介
-  LINK: process.env.NEXT_PUBLIC_LINK || 'https://tangly1024.com', // 网站地址
+  LINK: process.env.NEXT_PUBLIC_LINK || 'https://wwyyxzjlove.us', // 网站地址
   KEYWORDS: process.env.NEXT_PUBLIC_KEYWORD || 'Notion, 博客', // 网站关键词 英文逗号隔开
 
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
